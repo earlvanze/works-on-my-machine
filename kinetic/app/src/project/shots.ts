@@ -257,7 +257,7 @@ function scan(s: S) {
     const tag = box3(s, c, [sx, FY - 560, 700], FACE, 90, 30, 20, { front: col('signal', a), side: col('blood', a), top: col('signal', a) });
     label3(s, c, 'AGENT', P3(tag.O, FACE, 0, 0, -1), FACE, 30, col('ink', a), 'c', 'c', 700);
   }
-  L.forEach((l, i) => flyLine(s, c, l.words, [0, i ? -260 : -560, 1400], basis(0, 0.25), 2100, 170, { maxChars: 50, from: [0, -900, 0], depth: 40, spin: 0.3 }));
+  L.forEach((l, i) => flyLine(s, c, l.words, [0, i ? -170 : -400, 1400], basis(0, 0.25), 2100, 160, { maxChars: 50, from: [0, 0, 1600], depth: 40, spin: 0.3 }));
 }
 
 // ------------------------------------------------------------------ REPO (chorus 5 / bridge 3): a repo page in space; tabs extrude when sung
@@ -357,20 +357,20 @@ function newissue(s: S) {
   });
   // the form
   const B = basis(0.05, 0.06);
-  const f = box3(s, c, [0, 80, 300], B, 700, 320, 30, { front: col('ink2'), side: col('ink'), top: col('ink2'), edge: col('graphite', 0.9) });
+  const f = box3(s, c, [0, 160, 300], B, 700, 320, 30, { front: col('ink2'), side: col('ink'), top: col('ink2'), edge: col('graphite', 0.9) });
   label3(s, c, 'New issue', P3(f.O, B, -650, -260, -1), B, 34, col('bone'), 'l', 'c', 600);
   label3(s, c, 'Title', P3(f.O, B, -650, -180, -1), B, 26, col('ash'));
   rect3(s.c, c, P3(f.O, B, 0, -100, -2), B, 650, 46, col('ink'), col('graphite'), 2);
   if (t > broke.start - 0.3) {
     const sp = Math.max(0.25, broke.end - broke.start);
-    text3(s, c, 'broke', A(100, 900), 80, P3(f.O, B, -620, -100, -24), B, { align: 'l', w: broke, depth: 22, steps: 5, fx: (i) => { const k = prog(t, broke.start - 0.12 + (i * sp) / 6, broke.start + (i * sp) / 6, ease.inCubic); return { dy: -(1 - k) * 700, dz: -(1 - k) * 300, a: k > 0 ? 1 : 0, rot: (1 - k) * (i % 2 ? 0.6 : -0.6) }; } });
+    text3(s, c, 'broke', A(100, 900), 80, P3(f.O, B, -620, -100, -24), B, { align: 'l', w: broke, depth: 22, steps: 5, fx: (i) => { const k = prog(t, broke.start - 0.12 + (i * sp) / 6, broke.start + (i * sp) / 6, ease.inCubic); return { dy: -(1 - k) * 260, dz: -(1 - k) * 500, a: k > 0 ? 1 : 0, rot: (1 - k) * (i % 2 ? 0.6 : -0.6) }; } });
   }
   rect3(s.c, c, P3(f.O, B, 0, 60, -2), B, 650, 90, col('ink'), col('graphite'), 2);
   label3(s, c, 'it doesn’t work', P3(f.O, B, -620, 20, -3), B, 28, col('ash', 0.4));
   const press = pulse(t, hit.start, 0.18);
   const bt = box3(s, c, P3(f.O, B, 480, 230, -26 + 22 * press), B, 160, 38, 22 - 18 * press, { front: col('signal'), side: col('blood'), top: col('signal'), edge: col('ember', 0.6), glowEdge: 0.3 + 0.5 * press });
   label3(s, c, 'Submit new issue', P3(bt.O, B, 0, 0, -1), B, 26, col('ink'), 'c', 'c', 700);
-  flyLine(s, c, L[0]!.words, [0, -470, 150], basis(0, 0.04), 1550, 100, { maxChars: 30, alpha: lineVis(L, 0, t), from: [0, 0, 1400], depth: 34 });
+  flyLine(s, c, L[0]!.words, [0, -330, 150], basis(0, 0.04), 1550, 92, { maxChars: 30, alpha: lineVis(L, 0, t), from: [0, 0, 1400], depth: 34 });
   if (L[1]) flyLine(s, c, l1.words, [0, topY - 260, 150], basis(0, -0.05), 1500, 110, { maxChars: 26, alpha: prog(t, l1.start - 0.3, l1.start), from: [0, 900, 0], depth: 36 });
   hits(s, [hit.start, broke.start], 10);
 }
