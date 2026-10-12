@@ -1,0 +1,1 @@
+intro:It works:0,verse1:Node,pre1:You swear,chorus1:It works on my machine:1,verse2:A port,pre2:Before you,chorus2:It works on my machine:4,bridge1:Search the issues,final1:It works on my machine:6,outro1:Search before

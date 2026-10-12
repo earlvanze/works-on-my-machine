@@ -1,0 +1,14 @@
+chunk intro 'It works on my machine': window 0.00-13.00 drift +0.00
+chunk verse1 'Node twenty-two, but your PA': window 14.12-34.05 drift +0.05
+chunk pre1 'You swear you changed nothin': window 30.98-41.37 drift -1.63
+chunk chorus1 'It works on my machine, on m': window 39.46-67.66 drift +0.66
+chunk chorus1 'Works on my machine': window 64.05-74.28 drift +0.28
+chunk verse2 'A port stuck on three thousa': window 71.87-87.95 drift -0.05
+chunk pre2 'Before you hit New Issue wit': window 85.80-96.89 drift +0.89
+chunk chorus2 'It works on my machine, on m': window 93.59-120.88 drift +0.88
+chunk chorus2 'It works on my machine': window 117.12-124.73 drift +0.73
+chunk bridge1 'Search the issues': window 120.82-138.93 drift +0.75
+chunk final1 'It works on my machine, on m': window 135.67-169.30 drift +0.30
+chunk final1 'It works on my machine': window 162.12-172.93 drift -0.07
+chunk outro1 'Search before you post': window 168.40-181.16 drift +0.16
+45 lines; 335 words; low-confidence (<0.05): 52

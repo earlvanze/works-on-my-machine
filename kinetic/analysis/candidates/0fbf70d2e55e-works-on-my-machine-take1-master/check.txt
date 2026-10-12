@@ -1,0 +1,10 @@
+suspect lines: 0
+0.24 1.883 It works on my machine [('It', 0.24), ('works', 0.421), ('on', 0.781), ('my', 0.921), ('machine', 1.182)]
+4.247 5.629 Works on my machine [('Works', 4.247), ('on', 4.627), ('my', 4.787), ('machine', 5.028)]
+8.072 9.455 Works on my machine [('Works', 8.072), ('on', 8.433), ('my', 8.573), ('machine', 8.854)]
+16.441 19.563 Node twenty-two, but your PATH says eighteen [('Node', 16.441), ('twenty-two,', 17.122), ('but', 18.102), ('your', 18.362), ('PATH', 18.582), ('says', 18.822), ('eighteen', 19.163)]
+19.763 23.365 Three Pythons fighting in a venv you've never seen [('Three', 19.763), ('Pythons', 20.003), ('fighting', 20.483), ('in', 21.104), ('a', 21.304), ('venv', 21.424), ("you've", 21.924), ('never', 22.624), ('seen', 23.105)]
+23.645 27.227 A dotfile from twenty-nineteen you forgot you wrote [('A', 23.645), ('dotfile', 23.825), ('from', 24.525), ('twenty-nineteen', 24.745), ('you', 25.706), ('forgot', 25.946), ('you', 26.506), ('wrote', 26.746)]
+27.727 31.129 And a curl-pipe-bash you copied from a stranger's note [('And', 27.727), ('a', 27.947), ('curl-pipe-bash', 28.087), ('you', 29.348), ('copied', 29.528), ('from', 29.988), ('a', 30.148), ("stranger's", 30.208), ('note', 30.748)]
+31.66 35.204 You swear you changed nothing, you swear it's the same [('You', 31.66), ('swear', 31.82), ('you', 32.26), ('changed', 32.441), ('nothing,', 32.921), ('you', 33.482), ('swear', 33.702), ("it's", 34.223), ('the', 34.463), ('same', 34.743)]
+vocal energy 0-16s (0.5s bins): [0.29, 0.46, 0.42, 0.15, 0.05, 0.0, 0.0, 0.0, 0.45, 0.79, 0.73, 0.21, 0.0, 0.0, 0.0, 0.01, 0.82, 0.84, 0.49, 0.32, 0.3, 0.22, 0.31, 0.25, 0.25, 0.37, 0.47, 0.34, 0.29, 0.0, 0.0, 0.0]

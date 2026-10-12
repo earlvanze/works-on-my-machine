@@ -1,0 +1,2566 @@
+{
+ "lines": [
+  {
+   "text": "It works on my machine",
+   "section": "intro",
+   "start": 0.24,
+   "end": 1.883,
+   "words": [
+    {
+     "w": "It",
+     "start": 0.24,
+     "end": 0.421,
+     "conf": 0.141
+    },
+    {
+     "w": "works",
+     "start": 0.421,
+     "end": 0.781,
+     "conf": 0.073
+    },
+    {
+     "w": "on",
+     "start": 0.781,
+     "end": 0.921,
+     "conf": 0.059
+    },
+    {
+     "w": "my",
+     "start": 0.921,
+     "end": 1.182,
+     "conf": 0.099
+    },
+    {
+     "w": "machine",
+     "start": 1.182,
+     "end": 1.883,
+     "conf": 0.099
+    }
+   ],
+   "cue": [
+    0.19,
+    2.0
+   ]
+  },
+  {
+   "text": "Works on my machine",
+   "section": "intro",
+   "start": 4.247,
+   "end": 5.629,
+   "words": [
+    {
+     "w": "Works",
+     "start": 4.247,
+     "end": 4.627,
+     "conf": 0.19
+    },
+    {
+     "w": "on",
+     "start": 4.627,
+     "end": 4.787,
+     "conf": 0.283
+    },
+    {
+     "w": "my",
+     "start": 4.787,
+     "end": 5.028,
+     "conf": 0.374
+    },
+    {
+     "w": "machine",
+     "start": 5.028,
+     "end": 5.629,
+     "conf": 0.213
+    }
+   ],
+   "cue": [
+    4.0,
+    6.0
+   ]
+  },
+  {
+   "text": "Works on my machine",
+   "section": "intro",
+   "start": 8.072,
+   "end": 9.455,
+   "words": [
+    {
+     "w": "Works",
+     "start": 8.072,
+     "end": 8.433,
+     "conf": 0.305
+    },
+    {
+     "w": "on",
+     "start": 8.433,
+     "end": 8.573,
+     "conf": 0.252
+    },
+    {
+     "w": "my",
+     "start": 8.573,
+     "end": 8.854,
+     "conf": 0.316
+    },
+    {
+     "w": "machine",
+     "start": 8.854,
+     "end": 9.455,
+     "conf": 0.235
+    }
+   ],
+   "cue": [
+    8.0,
+    10.0
+   ]
+  },
+  {
+   "text": "Node twenty-two, but your PATH says eighteen",
+   "section": "verse1",
+   "start": 16.441,
+   "end": 19.563,
+   "words": [
+    {
+     "w": "Node",
+     "start": 16.441,
+     "end": 17.122,
+     "conf": 0.286
+    },
+    {
+     "w": "twenty-two,",
+     "start": 17.122,
+     "end": 18.102,
+     "conf": 0.011
+    },
+    {
+     "w": "but",
+     "start": 18.102,
+     "end": 18.362,
+     "conf": 0.196
+    },
+    {
+     "w": "your",
+     "start": 18.362,
+     "end": 18.582,
+     "conf": 0.071
+    },
+    {
+     "w": "PATH",
+     "start": 18.582,
+     "end": 18.822,
+     "conf": 0.221
+    },
+    {
+     "w": "says",
+     "start": 18.822,
+     "end": 19.163,
+     "conf": 0.202
+    },
+    {
+     "w": "eighteen",
+     "start": 19.163,
+     "end": 19.563,
+     "conf": 0.044
+    }
+   ],
+   "cue": [
+    18.07,
+    18.62
+   ]
+  },
+  {
+   "text": "Three Pythons fighting in a venv you've never seen",
+   "section": "verse1",
+   "start": 19.763,
+   "end": 23.365,
+   "words": [
+    {
+     "w": "Three",
+     "start": 19.763,
+     "end": 20.003,
+     "conf": 0.203
+    },
+    {
+     "w": "Pythons",
+     "start": 20.003,
+     "end": 20.483,
+     "conf": 0.141
+    },
+    {
+     "w": "fighting",
+     "start": 20.483,
+     "end": 21.104,
+     "conf": 0.23
+    },
+    {
+     "w": "in",
+     "start": 21.104,
+     "end": 21.304,
+     "conf": 0.237
+    },
+    {
+     "w": "a",
+     "start": 21.304,
+     "end": 21.424,
+     "conf": 0.079
+    },
+    {
+     "w": "venv",
+     "start": 21.424,
+     "end": 21.924,
+     "conf": 0.242
+    },
+    {
+     "w": "you've",
+     "start": 21.924,
+     "end": 22.624,
+     "conf": 0.258
+    },
+    {
+     "w": "never",
+     "start": 22.624,
+     "end": 23.105,
+     "conf": 0.318
+    },
+    {
+     "w": "seen",
+     "start": 23.105,
+     "end": 23.365,
+     "conf": 0.38
+    }
+   ],
+   "cue": [
+    19.74,
+    23.0
+   ]
+  },
+  {
+   "text": "A dotfile from twenty-nineteen you forgot you wrote",
+   "section": "verse1",
+   "start": 23.645,
+   "end": 27.227,
+   "words": [
+    {
+     "w": "A",
+     "start": 23.645,
+     "end": 23.825,
+     "conf": 0.095
+    },
+    {
+     "w": "dotfile",
+     "start": 23.825,
+     "end": 24.525,
+     "conf": 0.176
+    },
+    {
+     "w": "from",
+     "start": 24.525,
+     "end": 24.745,
+     "conf": 0.489
+    },
+    {
+     "w": "twenty-nineteen",
+     "start": 24.745,
+     "end": 25.706,
+     "conf": 0.003
+    },
+    {
+     "w": "you",
+     "start": 25.706,
+     "end": 25.946,
+     "conf": 0.295
+    },
+    {
+     "w": "forgot",
+     "start": 25.946,
+     "end": 26.506,
+     "conf": 0.366
+    },
+    {
+     "w": "you",
+     "start": 26.506,
+     "end": 26.746,
+     "conf": 0.451
+    },
+    {
+     "w": "wrote",
+     "start": 26.746,
+     "end": 27.227,
+     "conf": 0.25
+    }
+   ],
+   "cue": [
+    23.0,
+    27.0
+   ]
+  },
+  {
+   "text": "And a curl-pipe-bash you copied from a stranger's note",
+   "section": "verse1",
+   "start": 27.727,
+   "end": 31.129,
+   "words": [
+    {
+     "w": "And",
+     "start": 27.727,
+     "end": 27.947,
+     "conf": 0.38
+    },
+    {
+     "w": "a",
+     "start": 27.947,
+     "end": 28.087,
+     "conf": 0.064
+    },
+    {
+     "w": "curl-pipe-bash",
+     "start": 28.087,
+     "end": 29.348,
+     "conf": 0.3
+    },
+    {
+     "w": "you",
+     "start": 29.348,
+     "end": 29.528,
+     "conf": 0.396
+    },
+    {
+     "w": "copied",
+     "start": 29.528,
+     "end": 29.988,
+     "conf": 0.214
+    },
+    {
+     "w": "from",
+     "start": 29.988,
+     "end": 30.148,
+     "conf": 0.482
+    },
+    {
+     "w": "a",
+     "start": 30.148,
+     "end": 30.228,
+     "conf": 0.448
+    },
+    {
+     "w": "stranger's",
+     "start": 30.208,
+     "end": 30.748,
+     "conf": 0.346
+    },
+    {
+     "w": "note",
+     "start": 30.748,
+     "end": 31.129,
+     "conf": 0.344
+    }
+   ],
+   "cue": [
+    27.19,
+    31.0
+   ]
+  },
+  {
+   "text": "You swear you changed nothing, you swear it's the same",
+   "section": "pre1",
+   "start": 31.66,
+   "end": 35.204,
+   "words": [
+    {
+     "w": "You",
+     "start": 31.66,
+     "end": 31.82,
+     "conf": 0.431
+    },
+    {
+     "w": "swear",
+     "start": 31.82,
+     "end": 32.26,
+     "conf": 0.398
+    },
+    {
+     "w": "you",
+     "start": 32.26,
+     "end": 32.441,
+     "conf": 0.46
+    },
+    {
+     "w": "changed",
+     "start": 32.441,
+     "end": 32.921,
+     "conf": 0.392
+    },
+    {
+     "w": "nothing,",
+     "start": 32.921,
+     "end": 33.482,
+     "conf": 0.461
+    },
+    {
+     "w": "you",
+     "start": 33.482,
+     "end": 33.702,
+     "conf": 0.453
+    },
+    {
+     "w": "swear",
+     "start": 33.702,
+     "end": 34.223,
+     "conf": 0.383
+    },
+    {
+     "w": "it's",
+     "start": 34.223,
+     "end": 34.463,
+     "conf": 0.479
+    },
+    {
+     "w": "the",
+     "start": 34.463,
+     "end": 34.743,
+     "conf": 0.481
+    },
+    {
+     "w": "same",
+     "start": 34.743,
+     "end": 35.204,
+     "conf": 0.497
+    }
+   ],
+   "cue": [
+    31.0,
+    35.0
+   ]
+  },
+  {
+   "text": "But your shell keeps a secret and it whispers your name",
+   "section": "pre1",
+   "start": 35.264,
+   "end": 39.609,
+   "words": [
+    {
+     "w": "But",
+     "start": 35.264,
+     "end": 35.444,
+     "conf": 0.499
+    },
+    {
+     "w": "your",
+     "start": 35.444,
+     "end": 35.684,
+     "conf": 0.291
+    },
+    {
+     "w": "shell",
+     "start": 35.684,
+     "end": 36.045,
+     "conf": 0.423
+    },
+    {
+     "w": "keeps",
+     "start": 36.045,
+     "end": 36.445,
+     "conf": 0.488
+    },
+    {
+     "w": "a",
+     "start": 36.445,
+     "end": 36.646,
+     "conf": 0.152
+    },
+    {
+     "w": "secret",
+     "start": 36.646,
+     "end": 37.246,
+     "conf": 0.465
+    },
+    {
+     "w": "and",
+     "start": 37.246,
+     "end": 37.446,
+     "conf": 0.478
+    },
+    {
+     "w": "it",
+     "start": 37.446,
+     "end": 37.667,
+     "conf": 0.469
+    },
+    {
+     "w": "whispers",
+     "start": 37.667,
+     "end": 38.247,
+     "conf": 0.157
+    },
+    {
+     "w": "your",
+     "start": 38.247,
+     "end": 38.568,
+     "conf": 0.372
+    },
+    {
+     "w": "name",
+     "start": 38.568,
+     "end": 39.609,
+     "conf": 0.286
+    }
+   ],
+   "cue": [
+    35.0,
+    40.0
+   ]
+  },
+  {
+   "text": "It works on my machine, on my machine",
+   "section": "chorus1",
+   "start": 40.379,
+   "end": 43.321,
+   "words": [
+    {
+     "w": "It",
+     "start": 40.379,
+     "end": 40.519,
+     "conf": 0.193
+    },
+    {
+     "w": "works",
+     "start": 40.519,
+     "end": 40.839,
+     "conf": 0.475
+    },
+    {
+     "w": "on",
+     "start": 40.839,
+     "end": 41.02,
+     "conf": 0.224
+    },
+    {
+     "w": "my",
+     "start": 41.02,
+     "end": 41.26,
+     "conf": 0.133
+    },
+    {
+     "w": "machine,",
+     "start": 41.26,
+     "end": 42.06,
+     "conf": 0.15
+    },
+    {
+     "w": "on",
+     "start": 42.06,
+     "end": 42.381,
+     "conf": 0.116
+    },
+    {
+     "w": "my",
+     "start": 42.381,
+     "end": 42.761,
+     "conf": 0.178
+    },
+    {
+     "w": "machine",
+     "start": 42.761,
+     "end": 43.321,
+     "conf": 0.124
+    }
+   ],
+   "cue": [
+    40.0,
+    43.0
+   ],
+   "refined": "repeat-transfer from line 23"
+  },
+  {
+   "text": "It won't run on yours, and nobody's seen",
+   "section": "chorus1",
+   "start": 43.682,
+   "end": 47.085,
+   "words": [
+    {
+     "w": "It",
+     "start": 43.682,
+     "end": 43.762,
+     "conf": 0.111
+    },
+    {
+     "w": "won't",
+     "start": 43.762,
+     "end": 44.282,
+     "conf": 0.101
+    },
+    {
+     "w": "run",
+     "start": 44.282,
+     "end": 44.603,
+     "conf": 0.168
+    },
+    {
+     "w": "on",
+     "start": 44.603,
+     "end": 44.963,
+     "conf": 0.379
+    },
+    {
+     "w": "yours,",
+     "start": 44.963,
+     "end": 45.503,
+     "conf": 0.099
+    },
+    {
+     "w": "and",
+     "start": 45.503,
+     "end": 45.683,
+     "conf": 0.003
+    },
+    {
+     "w": "nobody's",
+     "start": 45.683,
+     "end": 46.824,
+     "conf": 0.395
+    },
+    {
+     "w": "seen",
+     "start": 46.824,
+     "end": 47.085,
+     "conf": 0.267
+    }
+   ],
+   "cue": [
+    43.0,
+    47.0
+   ],
+   "refined": "repeat-transfer from line 24"
+  },
+  {
+   "text": "Why it breaks on you, but your agent does",
+   "section": "chorus1",
+   "start": 47.525,
+   "end": 51.228,
+   "words": [
+    {
+     "w": "Why",
+     "start": 47.525,
+     "end": 47.765,
+     "conf": 0.283
+    },
+    {
+     "w": "it",
+     "start": 47.765,
+     "end": 48.005,
+     "conf": 0.012
+    },
+    {
+     "w": "breaks",
+     "start": 48.005,
+     "end": 48.386,
+     "conf": 0.237
+    },
+    {
+     "w": "on",
+     "start": 48.386,
+     "end": 48.646,
+     "conf": 0.328
+    },
+    {
+     "w": "you,",
+     "start": 48.646,
+     "end": 49.406,
+     "conf": 0.348
+    },
+    {
+     "w": "but",
+     "start": 49.406,
+     "end": 49.627,
+     "conf": 0.126
+    },
+    {
+     "w": "your",
+     "start": 49.627,
+     "end": 49.967,
+     "conf": 0.038
+    },
+    {
+     "w": "agent",
+     "start": 49.967,
+     "end": 50.587,
+     "conf": 0.373
+    },
+    {
+     "w": "does",
+     "start": 50.587,
+     "end": 51.228,
+     "conf": 0.233
+    }
+   ],
+   "cue": [
+    47.0,
+    51.0
+   ],
+   "refined": "repeat-transfer from line 25"
+  },
+  {
+   "text": "It knows your box better than you ever was",
+   "section": "chorus1",
+   "start": 51.588,
+   "end": 54.711,
+   "words": [
+    {
+     "w": "It",
+     "start": 51.588,
+     "end": 51.728,
+     "conf": 0.436
+    },
+    {
+     "w": "knows",
+     "start": 51.728,
+     "end": 52.008,
+     "conf": 0.321
+    },
+    {
+     "w": "your",
+     "start": 52.008,
+     "end": 52.209,
+     "conf": 0.024
+    },
+    {
+     "w": "box",
+     "start": 52.209,
+     "end": 52.689,
+     "conf": 0.222
+    },
+    {
+     "w": "better",
+     "start": 52.689,
+     "end": 53.149,
+     "conf": 0.373
+    },
+    {
+     "w": "than",
+     "start": 53.149,
+     "end": 53.43,
+     "conf": 0.418
+    },
+    {
+     "w": "you",
+     "start": 53.43,
+     "end": 53.73,
+     "conf": 0.385
+    },
+    {
+     "w": "ever",
+     "start": 53.73,
+     "end": 54.31,
+     "conf": 0.34
+    },
+    {
+     "w": "was",
+     "start": 54.31,
+     "end": 54.711,
+     "conf": 0.129
+    }
+   ],
+   "cue": [
+    51.0,
+    55.0
+   ],
+   "refined": "repeat-transfer from line 26"
+  },
+  {
+   "text": "So point it at the repo, let it read the scene",
+   "section": "chorus1",
+   "start": 55.091,
+   "end": 60.495,
+   "words": [
+    {
+     "w": "So",
+     "start": 55.091,
+     "end": 55.371,
+     "conf": 0.232
+    },
+    {
+     "w": "point",
+     "start": 55.371,
+     "end": 55.971,
+     "conf": 0.214
+    },
+    {
+     "w": "it",
+     "start": 55.971,
+     "end": 56.091,
+     "conf": 0.121
+    },
+    {
+     "w": "at",
+     "start": 56.091,
+     "end": 56.352,
+     "conf": 0.134
+    },
+    {
+     "w": "the",
+     "start": 56.352,
+     "end": 56.592,
+     "conf": 0.177
+    },
+    {
+     "w": "repo,",
+     "start": 56.592,
+     "end": 57.192,
+     "conf": 0.375
+    },
+    {
+     "w": "let",
+     "start": 58.913,
+     "end": 59.134,
+     "conf": 0.45
+    },
+    {
+     "w": "it",
+     "start": 59.134,
+     "end": 59.414,
+     "conf": 0.314
+    },
+    {
+     "w": "read",
+     "start": 59.414,
+     "end": 59.874,
+     "conf": 0.397
+    },
+    {
+     "w": "the",
+     "start": 59.874,
+     "end": 60.094,
+     "conf": 0.286
+    },
+    {
+     "w": "scene",
+     "start": 60.094,
+     "end": 60.495,
+     "conf": 0.19
+    }
+   ],
+   "cue": [
+    56.7,
+    61.0
+   ]
+  },
+  {
+   "text": "It works on my machine",
+   "section": "chorus1",
+   "start": 61.942,
+   "end": 63.585,
+   "words": [
+    {
+     "w": "It",
+     "start": 61.942,
+     "end": 62.123,
+     "conf": 0.014
+    },
+    {
+     "w": "works",
+     "start": 62.123,
+     "end": 62.483,
+     "conf": 0.063
+    },
+    {
+     "w": "on",
+     "start": 62.483,
+     "end": 62.623,
+     "conf": 0.023
+    },
+    {
+     "w": "my",
+     "start": 62.623,
+     "end": 62.884,
+     "conf": 0.026
+    },
+    {
+     "w": "machine",
+     "start": 62.884,
+     "end": 63.585,
+     "conf": 0.047
+    }
+   ],
+   "cue": [
+    62.0,
+    64.0
+   ],
+   "refined": "repeat-transfer from line 0"
+  },
+  {
+   "text": "Works on my machine",
+   "section": "chorus1",
+   "start": 65.949,
+   "end": 67.331,
+   "words": [
+    {
+     "w": "Works",
+     "start": 65.949,
+     "end": 66.329,
+     "conf": 0.111
+    },
+    {
+     "w": "on",
+     "start": 66.329,
+     "end": 66.489,
+     "conf": 0.293
+    },
+    {
+     "w": "my",
+     "start": 66.489,
+     "end": 66.73,
+     "conf": 0.005
+    },
+    {
+     "w": "machine",
+     "start": 66.73,
+     "end": 67.331,
+     "conf": 0.098
+    }
+   ],
+   "cue": [
+    66.0,
+    68.0
+   ],
+   "refined": "repeat-transfer from line 1"
+  },
+  {
+   "text": "Works on my machine",
+   "section": "chorus1",
+   "start": 69.774,
+   "end": 71.157,
+   "words": [
+    {
+     "w": "Works",
+     "start": 69.774,
+     "end": 70.135,
+     "conf": 0.315
+    },
+    {
+     "w": "on",
+     "start": 70.135,
+     "end": 70.275,
+     "conf": 0.334
+    },
+    {
+     "w": "my",
+     "start": 70.275,
+     "end": 70.556,
+     "conf": 0.076
+    },
+    {
+     "w": "machine",
+     "start": 70.556,
+     "end": 71.157,
+     "conf": 0.045
+    }
+   ],
+   "cue": [
+    70.0,
+    71.0
+   ],
+   "refined": "repeat-transfer from line 2"
+  },
+  {
+   "text": "A port stuck on three thousand from a zombie last week",
+   "section": "verse2",
+   "start": 71.887,
+   "end": 74.611,
+   "words": [
+    {
+     "w": "A",
+     "start": 71.887,
+     "end": 71.967,
+     "conf": 0.014
+    },
+    {
+     "w": "port",
+     "start": 71.907,
+     "end": 71.987,
+     "conf": 0.058
+    },
+    {
+     "w": "stuck",
+     "start": 71.987,
+     "end": 72.087,
+     "conf": 0.0
+    },
+    {
+     "w": "on",
+     "start": 72.087,
+     "end": 72.167,
+     "conf": 0.0
+    },
+    {
+     "w": "three",
+     "start": 72.127,
+     "end": 72.488,
+     "conf": 0.068
+    },
+    {
+     "w": "thousand",
+     "start": 72.488,
+     "end": 72.969,
+     "conf": 0.068
+    },
+    {
+     "w": "from",
+     "start": 72.969,
+     "end": 73.289,
+     "conf": 0.353
+    },
+    {
+     "w": "a",
+     "start": 73.289,
+     "end": 73.429,
+     "conf": 0.039
+    },
+    {
+     "w": "zombie",
+     "start": 73.429,
+     "end": 73.87,
+     "conf": 0.27
+    },
+    {
+     "w": "last",
+     "start": 73.87,
+     "end": 74.39,
+     "conf": 0.186
+    },
+    {
+     "w": "week",
+     "start": 74.39,
+     "end": 74.611,
+     "conf": 0.394
+    }
+   ],
+   "cue": [
+    71.0,
+    75.0
+   ]
+  },
+  {
+   "text": "A cache that never cleared and a token gone antique",
+   "section": "verse2",
+   "start": 74.751,
+   "end": 78.336,
+   "words": [
+    {
+     "w": "A",
+     "start": 74.751,
+     "end": 74.851,
+     "conf": 0.003
+    },
+    {
+     "w": "cache",
+     "start": 74.851,
+     "end": 75.332,
+     "conf": 0.214
+    },
+    {
+     "w": "that",
+     "start": 75.332,
+     "end": 75.572,
+     "conf": 0.08
+    },
+    {
+     "w": "never",
+     "start": 75.572,
+     "end": 75.993,
+     "conf": 0.213
+    },
+    {
+     "w": "cleared",
+     "start": 75.993,
+     "end": 76.553,
+     "conf": 0.351
+    },
+    {
+     "w": "and",
+     "start": 76.553,
+     "end": 76.654,
+     "conf": 0.307
+    },
+    {
+     "w": "a",
+     "start": 76.654,
+     "end": 76.734,
+     "conf": 0.418
+    },
+    {
+     "w": "token",
+     "start": 76.734,
+     "end": 77.214,
+     "conf": 0.4
+    },
+    {
+     "w": "gone",
+     "start": 77.214,
+     "end": 77.595,
+     "conf": 0.319
+    },
+    {
+     "w": "antique",
+     "start": 77.595,
+     "end": 78.336,
+     "conf": 0.142
+    }
+   ],
+   "cue": [
+    75.0,
+    78.06
+   ]
+  },
+  {
+   "text": "ARM or x86, your glibc's out of date",
+   "section": "verse2",
+   "start": 78.476,
+   "end": 81.921,
+   "words": [
+    {
+     "w": "ARM",
+     "start": 78.476,
+     "end": 78.917,
+     "conf": 0.288
+    },
+    {
+     "w": "or",
+     "start": 78.917,
+     "end": 79.257,
+     "conf": 0.391
+    },
+    {
+     "w": "x86,",
+     "start": 79.257,
+     "end": 79.337,
+     "conf": 0.367
+    },
+    {
+     "w": "your",
+     "start": 80.259,
+     "end": 80.439,
+     "conf": 0.194
+    },
+    {
+     "w": "glibc's",
+     "start": 80.439,
+     "end": 81.26,
+     "conf": 0.306
+    },
+    {
+     "w": "out",
+     "start": 81.26,
+     "end": 81.5,
+     "conf": 0.017
+    },
+    {
+     "w": "of",
+     "start": 81.5,
+     "end": 81.64,
+     "conf": 0.001
+    },
+    {
+     "w": "date",
+     "start": 81.64,
+     "end": 81.921,
+     "conf": 0.309
+    }
+   ],
+   "cue": [
+    79.0,
+    82.0
+   ]
+  },
+  {
+   "text": "Your agent read the logs, your agent knows the state",
+   "section": "verse2",
+   "start": 82.101,
+   "end": 85.866,
+   "words": [
+    {
+     "w": "Your",
+     "start": 82.101,
+     "end": 82.401,
+     "conf": 0.204
+    },
+    {
+     "w": "agent",
+     "start": 82.401,
+     "end": 82.862,
+     "conf": 0.381
+    },
+    {
+     "w": "read",
+     "start": 82.862,
+     "end": 83.283,
+     "conf": 0.377
+    },
+    {
+     "w": "the",
+     "start": 83.283,
+     "end": 83.483,
+     "conf": 0.071
+    },
+    {
+     "w": "logs,",
+     "start": 83.483,
+     "end": 84.004,
+     "conf": 0.421
+    },
+    {
+     "w": "your",
+     "start": 84.004,
+     "end": 84.304,
+     "conf": 0.203
+    },
+    {
+     "w": "agent",
+     "start": 84.304,
+     "end": 84.845,
+     "conf": 0.471
+    },
+    {
+     "w": "knows",
+     "start": 84.845,
+     "end": 85.285,
+     "conf": 0.391
+    },
+    {
+     "w": "the",
+     "start": 85.285,
+     "end": 85.506,
+     "conf": 0.265
+    },
+    {
+     "w": "state",
+     "start": 85.506,
+     "end": 85.866,
+     "conf": 0.327
+    }
+   ],
+   "cue": [
+    82.19,
+    85.0
+   ]
+  },
+  {
+   "text": "Before you hit New Issue with a title that just says broke",
+   "section": "pre2",
+   "start": 85.876,
+   "end": 90.401,
+   "words": [
+    {
+     "w": "Before",
+     "start": 85.876,
+     "end": 86.296,
+     "conf": 0.351
+    },
+    {
+     "w": "you",
+     "start": 86.296,
+     "end": 86.437,
+     "conf": 0.136
+    },
+    {
+     "w": "hit",
+     "start": 86.437,
+     "end": 86.997,
+     "conf": 0.002
+    },
+    {
+     "w": "New",
+     "start": 86.997,
+     "end": 87.458,
+     "conf": 0.01
+    },
+    {
+     "w": "Issue",
+     "start": 87.458,
+     "end": 87.898,
+     "conf": 0.125
+    },
+    {
+     "w": "with",
+     "start": 87.898,
+     "end": 88.198,
+     "conf": 0.329
+    },
+    {
+     "w": "a",
+     "start": 88.198,
+     "end": 88.319,
+     "conf": 0.004
+    },
+    {
+     "w": "title",
+     "start": 88.319,
+     "end": 88.839,
+     "conf": 0.483
+    },
+    {
+     "w": "that",
+     "start": 88.839,
+     "end": 89.019,
+     "conf": 0.0
+    },
+    {
+     "w": "just",
+     "start": 89.019,
+     "end": 89.5,
+     "conf": 0.459
+    },
+    {
+     "w": "says",
+     "start": 89.5,
+     "end": 89.94,
+     "conf": 0.237
+    },
+    {
+     "w": "broke",
+     "start": 89.94,
+     "end": 90.401,
+     "conf": 0.442
+    }
+   ],
+   "cue": [
+    85.0,
+    90.0
+   ]
+  },
+  {
+   "text": "Scroll up a little bit, somebody already spoke",
+   "section": "pre2",
+   "start": 90.541,
+   "end": 93.724,
+   "words": [
+    {
+     "w": "Scroll",
+     "start": 90.541,
+     "end": 90.961,
+     "conf": 0.358
+    },
+    {
+     "w": "up",
+     "start": 90.961,
+     "end": 91.081,
+     "conf": 0.481
+    },
+    {
+     "w": "a",
+     "start": 91.081,
+     "end": 91.161,
+     "conf": 0.455
+    },
+    {
+     "w": "little",
+     "start": 91.141,
+     "end": 91.362,
+     "conf": 0.314
+    },
+    {
+     "w": "bit,",
+     "start": 91.362,
+     "end": 91.562,
+     "conf": 0.497
+    },
+    {
+     "w": "somebody",
+     "start": 91.562,
+     "end": 92.343,
+     "conf": 0.039
+    },
+    {
+     "w": "already",
+     "start": 92.343,
+     "end": 92.843,
+     "conf": 0.49
+    },
+    {
+     "w": "spoke",
+     "start": 92.843,
+     "end": 93.724,
+     "conf": 0.362
+    }
+   ],
+   "cue": [
+    90.0,
+    93.0
+   ]
+  },
+  {
+   "text": "It works on my machine, on my machine",
+   "section": "chorus2",
+   "start": 93.734,
+   "end": 96.676,
+   "words": [
+    {
+     "w": "It",
+     "start": 93.734,
+     "end": 93.874,
+     "conf": 0.004
+    },
+    {
+     "w": "works",
+     "start": 93.874,
+     "end": 94.194,
+     "conf": 0.054
+    },
+    {
+     "w": "on",
+     "start": 94.194,
+     "end": 94.375,
+     "conf": 0.012
+    },
+    {
+     "w": "my",
+     "start": 94.375,
+     "end": 94.615,
+     "conf": 0.012
+    },
+    {
+     "w": "machine,",
+     "start": 94.615,
+     "end": 95.415,
+     "conf": 0.021
+    },
+    {
+     "w": "on",
+     "start": 95.415,
+     "end": 95.736,
+     "conf": 0.067
+    },
+    {
+     "w": "my",
+     "start": 95.736,
+     "end": 96.116,
+     "conf": 0.046
+    },
+    {
+     "w": "machine",
+     "start": 96.116,
+     "end": 96.676,
+     "conf": 0.079
+    }
+   ],
+   "cue": [
+    93.0,
+    96.0
+   ]
+  },
+  {
+   "text": "It won't run on yours, and nobody's seen",
+   "section": "chorus2",
+   "start": 97.037,
+   "end": 100.44,
+   "words": [
+    {
+     "w": "It",
+     "start": 97.037,
+     "end": 97.117,
+     "conf": 0.012
+    },
+    {
+     "w": "won't",
+     "start": 97.117,
+     "end": 97.637,
+     "conf": 0.044
+    },
+    {
+     "w": "run",
+     "start": 97.637,
+     "end": 97.958,
+     "conf": 0.208
+    },
+    {
+     "w": "on",
+     "start": 97.958,
+     "end": 98.318,
+     "conf": 0.376
+    },
+    {
+     "w": "yours,",
+     "start": 98.318,
+     "end": 98.858,
+     "conf": 0.258
+    },
+    {
+     "w": "and",
+     "start": 98.858,
+     "end": 99.038,
+     "conf": 0.002
+    },
+    {
+     "w": "nobody's",
+     "start": 99.038,
+     "end": 100.179,
+     "conf": 0.226
+    },
+    {
+     "w": "seen",
+     "start": 100.179,
+     "end": 100.44,
+     "conf": 0.182
+    }
+   ],
+   "cue": [
+    96.0,
+    100.0
+   ]
+  },
+  {
+   "text": "Why it breaks on you, but your agent does",
+   "section": "chorus2",
+   "start": 100.88,
+   "end": 104.583,
+   "words": [
+    {
+     "w": "Why",
+     "start": 100.88,
+     "end": 101.12,
+     "conf": 0.193
+    },
+    {
+     "w": "it",
+     "start": 101.12,
+     "end": 101.36,
+     "conf": 0.215
+    },
+    {
+     "w": "breaks",
+     "start": 101.36,
+     "end": 101.741,
+     "conf": 0.359
+    },
+    {
+     "w": "on",
+     "start": 101.741,
+     "end": 102.001,
+     "conf": 0.423
+    },
+    {
+     "w": "you,",
+     "start": 102.001,
+     "end": 102.761,
+     "conf": 0.176
+    },
+    {
+     "w": "but",
+     "start": 102.761,
+     "end": 102.982,
+     "conf": 0.138
+    },
+    {
+     "w": "your",
+     "start": 102.982,
+     "end": 103.322,
+     "conf": 0.004
+    },
+    {
+     "w": "agent",
+     "start": 103.322,
+     "end": 103.942,
+     "conf": 0.414
+    },
+    {
+     "w": "does",
+     "start": 103.942,
+     "end": 104.583,
+     "conf": 0.146
+    }
+   ],
+   "cue": [
+    100.0,
+    104.0
+   ]
+  },
+  {
+   "text": "It knows your box better than you ever was",
+   "section": "chorus2",
+   "start": 104.943,
+   "end": 108.066,
+   "words": [
+    {
+     "w": "It",
+     "start": 104.943,
+     "end": 105.083,
+     "conf": 0.065
+    },
+    {
+     "w": "knows",
+     "start": 105.083,
+     "end": 105.363,
+     "conf": 0.265
+    },
+    {
+     "w": "your",
+     "start": 105.363,
+     "end": 105.564,
+     "conf": 0.05
+    },
+    {
+     "w": "box",
+     "start": 105.564,
+     "end": 106.044,
+     "conf": 0.313
+    },
+    {
+     "w": "better",
+     "start": 106.044,
+     "end": 106.504,
+     "conf": 0.254
+    },
+    {
+     "w": "than",
+     "start": 106.504,
+     "end": 106.785,
+     "conf": 0.265
+    },
+    {
+     "w": "you",
+     "start": 106.785,
+     "end": 107.085,
+     "conf": 0.404
+    },
+    {
+     "w": "ever",
+     "start": 107.085,
+     "end": 107.665,
+     "conf": 0.307
+    },
+    {
+     "w": "was",
+     "start": 107.665,
+     "end": 108.066,
+     "conf": 0.076
+    }
+   ],
+   "cue": [
+    104.0,
+    108.0
+   ]
+  },
+  {
+   "text": "So point it at the issues and the PRs between",
+   "section": "chorus2",
+   "start": 108.306,
+   "end": 113.89,
+   "words": [
+    {
+     "w": "So",
+     "start": 108.306,
+     "end": 108.586,
+     "conf": 0.284
+    },
+    {
+     "w": "point",
+     "start": 108.586,
+     "end": 109.187,
+     "conf": 0.233
+    },
+    {
+     "w": "it",
+     "start": 109.187,
+     "end": 109.407,
+     "conf": 0.048
+    },
+    {
+     "w": "at",
+     "start": 109.407,
+     "end": 109.527,
+     "conf": 0.022
+    },
+    {
+     "w": "the",
+     "start": 109.527,
+     "end": 109.767,
+     "conf": 0.151
+    },
+    {
+     "w": "issues",
+     "start": 109.767,
+     "end": 110.568,
+     "conf": 0.172
+    },
+    {
+     "w": "and",
+     "start": 111.889,
+     "end": 112.089,
+     "conf": 0.289
+    },
+    {
+     "w": "the",
+     "start": 112.089,
+     "end": 112.309,
+     "conf": 0.209
+    },
+    {
+     "w": "PRs",
+     "start": 112.309,
+     "end": 113.25,
+     "conf": 0.295
+    },
+    {
+     "w": "between",
+     "start": 113.25,
+     "end": 113.89,
+     "conf": 0.427
+    }
+   ],
+   "cue": [
+    109.37,
+    114.0
+   ]
+  },
+  {
+   "text": "It works on my machine",
+   "section": "chorus2",
+   "start": 115.151,
+   "end": 117.273,
+   "words": [
+    {
+     "w": "It",
+     "start": 115.151,
+     "end": 115.312,
+     "conf": 0.022
+    },
+    {
+     "w": "works",
+     "start": 115.312,
+     "end": 115.872,
+     "conf": 0.396
+    },
+    {
+     "w": "on",
+     "start": 115.872,
+     "end": 116.232,
+     "conf": 0.229
+    },
+    {
+     "w": "my",
+     "start": 116.232,
+     "end": 116.713,
+     "conf": 0.199
+    },
+    {
+     "w": "machine",
+     "start": 116.713,
+     "end": 117.273,
+     "conf": 0.2
+    }
+   ],
+   "cue": [
+    114.0,
+    117.0
+   ]
+  },
+  {
+   "text": "It works on my machine",
+   "section": "chorus2",
+   "start": 118.745,
+   "end": 120.969,
+   "words": [
+    {
+     "w": "It",
+     "start": 118.745,
+     "end": 118.966,
+     "conf": 0.003
+    },
+    {
+     "w": "works",
+     "start": 118.966,
+     "end": 119.567,
+     "conf": 0.46
+    },
+    {
+     "w": "on",
+     "start": 119.567,
+     "end": 119.907,
+     "conf": 0.444
+    },
+    {
+     "w": "my",
+     "start": 119.907,
+     "end": 120.368,
+     "conf": 0.14
+    },
+    {
+     "w": "machine",
+     "start": 120.368,
+     "end": 120.969,
+     "conf": 0.108
+    }
+   ],
+   "cue": [
+    118.0,
+    121.0
+   ]
+  },
+  {
+   "text": "Search the issues",
+   "section": "bridge1",
+   "start": 121.299,
+   "end": 122.94,
+   "words": [
+    {
+     "w": "Search",
+     "start": 121.299,
+     "end": 121.659,
+     "conf": 0.169
+    },
+    {
+     "w": "the",
+     "start": 121.659,
+     "end": 121.839,
+     "conf": 0.413
+    },
+    {
+     "w": "issues",
+     "start": 121.839,
+     "end": 122.94,
+     "conf": 0.419
+    }
+   ],
+   "cue": [
+    121.0,
+    122.0
+   ]
+  },
+  {
+   "text": "Read the PRs",
+   "section": "bridge1",
+   "start": 123.18,
+   "end": 124.28,
+   "words": [
+    {
+     "w": "Read",
+     "start": 123.18,
+     "end": 123.48,
+     "conf": 0.444
+    },
+    {
+     "w": "the",
+     "start": 123.48,
+     "end": 123.64,
+     "conf": 0.433
+    },
+    {
+     "w": "PRs",
+     "start": 123.64,
+     "end": 124.28,
+     "conf": 0.348
+    }
+   ],
+   "cue": [
+    124.0,
+    125.0
+   ]
+  },
+  {
+   "text": "Point your agent at the repo",
+   "section": "bridge1",
+   "start": 124.98,
+   "end": 126.721,
+   "words": [
+    {
+     "w": "Point",
+     "start": 124.98,
+     "end": 125.341,
+     "conf": 0.458
+    },
+    {
+     "w": "your",
+     "start": 125.341,
+     "end": 125.561,
+     "conf": 0.397
+    },
+    {
+     "w": "agent",
+     "start": 125.561,
+     "end": 125.881,
+     "conf": 0.271
+    },
+    {
+     "w": "at",
+     "start": 125.881,
+     "end": 126.141,
+     "conf": 0.108
+    },
+    {
+     "w": "the",
+     "start": 126.141,
+     "end": 126.381,
+     "conf": 0.444
+    },
+    {
+     "w": "repo",
+     "start": 126.381,
+     "end": 126.721,
+     "conf": 0.472
+    }
+   ],
+   "cue": [
+    125.0,
+    127.0
+   ]
+  },
+  {
+   "text": "It already knows where you are",
+   "section": "bridge1",
+   "start": 126.821,
+   "end": 128.482,
+   "words": [
+    {
+     "w": "It",
+     "start": 126.821,
+     "end": 127.061,
+     "conf": 0.005
+    },
+    {
+     "w": "already",
+     "start": 127.061,
+     "end": 127.501,
+     "conf": 0.473
+    },
+    {
+     "w": "knows",
+     "start": 127.501,
+     "end": 127.761,
+     "conf": 0.465
+    },
+    {
+     "w": "where",
+     "start": 127.761,
+     "end": 128.001,
+     "conf": 0.365
+    },
+    {
+     "w": "you",
+     "start": 128.001,
+     "end": 128.261,
+     "conf": 0.385
+    },
+    {
+     "w": "are",
+     "start": 128.261,
+     "end": 128.482,
+     "conf": 0.378
+    }
+   ],
+   "cue": [
+    127.0,
+    128.0
+   ]
+  },
+  {
+   "text": "Same ticket, same ticket, opened up again",
+   "section": "bridge1",
+   "start": 128.642,
+   "end": 131.803,
+   "words": [
+    {
+     "w": "Same",
+     "start": 128.642,
+     "end": 129.122,
+     "conf": 0.429
+    },
+    {
+     "w": "ticket,",
+     "start": 129.122,
+     "end": 129.582,
+     "conf": 0.216
+    },
+    {
+     "w": "same",
+     "start": 129.582,
+     "end": 130.022,
+     "conf": 0.406
+    },
+    {
+     "w": "ticket,",
+     "start": 130.022,
+     "end": 130.562,
+     "conf": 0.205
+    },
+    {
+     "w": "opened",
+     "start": 130.562,
+     "end": 131.022,
+     "conf": 0.373
+    },
+    {
+     "w": "up",
+     "start": 131.022,
+     "end": 131.242,
+     "conf": 0.431
+    },
+    {
+     "w": "again",
+     "start": 131.242,
+     "end": 131.803,
+     "conf": 0.423
+    }
+   ],
+   "cue": [
+    128.0,
+    131.0
+   ]
+  },
+  {
+   "text": "Scroll up just a little, it was answered back then",
+   "section": "bridge1",
+   "start": 132.203,
+   "end": 135.824,
+   "words": [
+    {
+     "w": "Scroll",
+     "start": 132.203,
+     "end": 132.883,
+     "conf": 0.337
+    },
+    {
+     "w": "up",
+     "start": 132.883,
+     "end": 133.223,
+     "conf": 0.489
+    },
+    {
+     "w": "just",
+     "start": 133.223,
+     "end": 133.543,
+     "conf": 0.441
+    },
+    {
+     "w": "a",
+     "start": 133.543,
+     "end": 133.703,
+     "conf": 0.442
+    },
+    {
+     "w": "little,",
+     "start": 133.703,
+     "end": 134.264,
+     "conf": 0.476
+    },
+    {
+     "w": "it",
+     "start": 134.264,
+     "end": 134.404,
+     "conf": 0.49
+    },
+    {
+     "w": "was",
+     "start": 134.404,
+     "end": 134.704,
+     "conf": 0.494
+    },
+    {
+     "w": "answered",
+     "start": 134.704,
+     "end": 135.084,
+     "conf": 0.478
+    },
+    {
+     "w": "back",
+     "start": 135.084,
+     "end": 135.524,
+     "conf": 0.472
+    },
+    {
+     "w": "then",
+     "start": 135.524,
+     "end": 135.824,
+     "conf": 0.201
+    }
+   ],
+   "cue": [
+    131.0,
+    135.18
+   ]
+  },
+  {
+   "text": "It works on my machine, on my machine",
+   "section": "final1",
+   "start": 137.941,
+   "end": 140.883,
+   "words": [
+    {
+     "w": "It",
+     "start": 137.941,
+     "end": 138.082,
+     "conf": 0.004
+    },
+    {
+     "w": "works",
+     "start": 138.082,
+     "end": 138.401,
+     "conf": 0.069
+    },
+    {
+     "w": "on",
+     "start": 138.401,
+     "end": 138.583,
+     "conf": 0.013
+    },
+    {
+     "w": "my",
+     "start": 138.583,
+     "end": 138.822,
+     "conf": 0.001
+    },
+    {
+     "w": "machine,",
+     "start": 138.822,
+     "end": 139.623,
+     "conf": 0.041
+    },
+    {
+     "w": "on",
+     "start": 139.623,
+     "end": 139.944,
+     "conf": 0.044
+    },
+    {
+     "w": "my",
+     "start": 139.944,
+     "end": 140.323,
+     "conf": 0.018
+    },
+    {
+     "w": "machine",
+     "start": 140.323,
+     "end": 140.883,
+     "conf": 0.042
+    }
+   ],
+   "cue": [
+    138.0,
+    141.0
+   ],
+   "refined": "repeat-transfer from line 23"
+  },
+  {
+   "text": "It won't run on yours, and nobody's seen",
+   "section": "final1",
+   "start": 141.245,
+   "end": 144.648,
+   "words": [
+    {
+     "w": "It",
+     "start": 141.245,
+     "end": 141.325,
+     "conf": 0.116
+    },
+    {
+     "w": "won't",
+     "start": 141.325,
+     "end": 141.845,
+     "conf": 0.159
+    },
+    {
+     "w": "run",
+     "start": 141.845,
+     "end": 142.166,
+     "conf": 0.407
+    },
+    {
+     "w": "on",
+     "start": 142.166,
+     "end": 142.525,
+     "conf": 0.407
+    },
+    {
+     "w": "yours,",
+     "start": 142.525,
+     "end": 143.066,
+     "conf": 0.133
+    },
+    {
+     "w": "and",
+     "start": 143.066,
+     "end": 143.245,
+     "conf": 0.004
+    },
+    {
+     "w": "nobody's",
+     "start": 143.245,
+     "end": 144.387,
+     "conf": 0.384
+    },
+    {
+     "w": "seen",
+     "start": 144.387,
+     "end": 144.648,
+     "conf": 0.176
+    }
+   ],
+   "cue": [
+    141.0,
+    144.0
+   ],
+   "refined": "repeat-transfer from line 24"
+  },
+  {
+   "text": "Why it breaks on you, but your agent does",
+   "section": "final1",
+   "start": 145.088,
+   "end": 148.791,
+   "words": [
+    {
+     "w": "Why",
+     "start": 145.088,
+     "end": 145.328,
+     "conf": 0.287
+    },
+    {
+     "w": "it",
+     "start": 145.328,
+     "end": 145.567,
+     "conf": 0.05
+    },
+    {
+     "w": "breaks",
+     "start": 145.567,
+     "end": 145.948,
+     "conf": 0.285
+    },
+    {
+     "w": "on",
+     "start": 145.948,
+     "end": 146.209,
+     "conf": 0.442
+    },
+    {
+     "w": "you,",
+     "start": 146.209,
+     "end": 146.969,
+     "conf": 0.35
+    },
+    {
+     "w": "but",
+     "start": 146.969,
+     "end": 147.19,
+     "conf": 0.049
+    },
+    {
+     "w": "your",
+     "start": 147.19,
+     "end": 147.53,
+     "conf": 0.037
+    },
+    {
+     "w": "agent",
+     "start": 147.53,
+     "end": 148.149,
+     "conf": 0.432
+    },
+    {
+     "w": "does",
+     "start": 148.149,
+     "end": 148.791,
+     "conf": 0.181
+    }
+   ],
+   "cue": [
+    144.0,
+    148.0
+   ],
+   "refined": "repeat-transfer from line 25"
+  },
+  {
+   "text": "It knows your box better than you ever was",
+   "section": "final1",
+   "start": 149.15,
+   "end": 152.274,
+   "words": [
+    {
+     "w": "It",
+     "start": 149.15,
+     "end": 149.291,
+     "conf": 0.125
+    },
+    {
+     "w": "knows",
+     "start": 149.291,
+     "end": 149.571,
+     "conf": 0.261
+    },
+    {
+     "w": "your",
+     "start": 149.571,
+     "end": 149.772,
+     "conf": 0.042
+    },
+    {
+     "w": "box",
+     "start": 149.772,
+     "end": 150.251,
+     "conf": 0.334
+    },
+    {
+     "w": "better",
+     "start": 150.251,
+     "end": 150.712,
+     "conf": 0.457
+    },
+    {
+     "w": "than",
+     "start": 150.712,
+     "end": 150.993,
+     "conf": 0.413
+    },
+    {
+     "w": "you",
+     "start": 150.993,
+     "end": 151.292,
+     "conf": 0.424
+    },
+    {
+     "w": "ever",
+     "start": 151.292,
+     "end": 151.873,
+     "conf": 0.383
+    },
+    {
+     "w": "was",
+     "start": 151.873,
+     "end": 152.274,
+     "conf": 0.148
+    }
+   ],
+   "cue": [
+    148.0,
+    152.0
+   ],
+   "refined": "repeat-transfer from line 26"
+  },
+  {
+   "text": "So point it at the repo, the issues, the PRs",
+   "section": "final1",
+   "start": 152.356,
+   "end": 158.837,
+   "words": [
+    {
+     "w": "So",
+     "start": 152.356,
+     "end": 152.677,
+     "conf": 0.174
+    },
+    {
+     "w": "point",
+     "start": 152.677,
+     "end": 153.257,
+     "conf": 0.231
+    },
+    {
+     "w": "it",
+     "start": 153.257,
+     "end": 153.417,
+     "conf": 0.117
+    },
+    {
+     "w": "at",
+     "start": 153.417,
+     "end": 153.597,
+     "conf": 0.156
+    },
+    {
+     "w": "the",
+     "start": 153.597,
+     "end": 153.817,
+     "conf": 0.173
+    },
+    {
+     "w": "repo,",
+     "start": 153.817,
+     "end": 154.397,
+     "conf": 0.277
+    },
+    {
+     "w": "the",
+     "start": 155.197,
+     "end": 155.537,
+     "conf": 0.192
+    },
+    {
+     "w": "issues,",
+     "start": 155.537,
+     "end": 156.977,
+     "conf": 0.292
+    },
+    {
+     "w": "the",
+     "start": 156.977,
+     "end": 157.217,
+     "conf": 0.242
+    },
+    {
+     "w": "PRs",
+     "start": 157.217,
+     "end": 158.837,
+     "conf": 0.184
+    }
+   ],
+   "cue": [
+    153.36,
+    158.0
+   ]
+  },
+  {
+   "text": "It works on my machine",
+   "section": "final1",
+   "start": 158.977,
+   "end": 161.298,
+   "words": [
+    {
+     "w": "It",
+     "start": 158.977,
+     "end": 159.298,
+     "conf": 0.184
+    },
+    {
+     "w": "works",
+     "start": 159.298,
+     "end": 159.858,
+     "conf": 0.374
+    },
+    {
+     "w": "on",
+     "start": 159.858,
+     "end": 160.198,
+     "conf": 0.249
+    },
+    {
+     "w": "my",
+     "start": 160.198,
+     "end": 160.658,
+     "conf": 0.117
+    },
+    {
+     "w": "machine",
+     "start": 160.658,
+     "end": 161.298,
+     "conf": 0.078
+    }
+   ],
+   "cue": [
+    158.0,
+    166.0
+   ]
+  },
+  {
+   "text": "It works on my machine",
+   "section": "final1",
+   "start": 166.348,
+   "end": 168.55,
+   "words": [
+    {
+     "w": "It",
+     "start": 166.348,
+     "end": 166.568,
+     "conf": 0.045
+    },
+    {
+     "w": "works",
+     "start": 166.568,
+     "end": 167.149,
+     "conf": 0.274
+    },
+    {
+     "w": "on",
+     "start": 167.149,
+     "end": 167.349,
+     "conf": 0.161
+    },
+    {
+     "w": "my",
+     "start": 167.349,
+     "end": 167.449,
+     "conf": 0.021
+    },
+    {
+     "w": "machine",
+     "start": 167.449,
+     "end": 168.55,
+     "conf": 0.181
+    }
+   ],
+   "cue": [
+    166.19,
+    170.0
+   ]
+  },
+  {
+   "text": "Search before you post",
+   "section": "outro1",
+   "start": 172.025,
+   "end": 175.25,
+   "words": [
+    {
+     "w": "Search",
+     "start": 172.025,
+     "end": 172.446,
+     "conf": 0.418
+    },
+    {
+     "w": "before",
+     "start": 173.627,
+     "end": 174.348,
+     "conf": 0.245
+    },
+    {
+     "w": "you",
+     "start": 174.348,
+     "end": 174.749,
+     "conf": 0.48
+    },
+    {
+     "w": "post",
+     "start": 174.749,
+     "end": 175.25,
+     "conf": 0.482
+    }
+   ],
+   "cue": [
+    171.0,
+    174.8
+   ]
+  },
+  {
+   "text": "Works on my machine",
+   "section": "outro1",
+   "start": 175.67,
+   "end": 177.673,
+   "words": [
+    {
+     "w": "Works",
+     "start": 175.67,
+     "end": 176.251,
+     "conf": 0.488
+    },
+    {
+     "w": "on",
+     "start": 176.251,
+     "end": 176.572,
+     "conf": 0.497
+    },
+    {
+     "w": "my",
+     "start": 176.572,
+     "end": 177.052,
+     "conf": 0.497
+    },
+    {
+     "w": "machine",
+     "start": 177.052,
+     "end": 177.673,
+     "conf": 0.373
+    }
+   ],
+   "cue": [
+    174.8,
+    178.0
+   ]
+  }
+ ],
+ "notes": "MMS_FA forced alignment on the htdemucs vocal stem of ./audio/works-on-my-machine-take1-master.wav; cue = transcript cue. refine.py: 0 lines re-aligned in Whisper-anchored windows; absent lines []."
+}

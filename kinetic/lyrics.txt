@@ -1,0 +1,65 @@
+# Works On My Machine — take 1 (suno.com/song/34c8a402-f553-44a6-93de-55ccc97e49c7), as sung.
+[intro]
+It works on my machine
+Works on my machine
+Works on my machine
+
+[verse1]
+Node twenty-two, but your PATH says eighteen
+Three Pythons fighting in a venv you've never seen
+A dotfile from twenty-nineteen you forgot you wrote
+And a curl-pipe-bash you copied from a stranger's note
+
+[pre1]
+You swear you changed nothing, you swear it's the same
+But your shell keeps a secret and it whispers your name
+
+[chorus1]
+It works on my machine, on my machine
+It won't run on yours, and nobody's seen
+Why it breaks on you, but your agent does
+It knows your box better than you ever was
+So point it at the repo, let it read the scene
+It works on my machine
+Works on my machine
+Works on my machine
+
+[verse2]
+A port stuck on three thousand from a zombie last week
+A cache that never cleared and a token gone antique
+ARM or x86, your glibc's out of date
+Your agent read the logs, your agent knows the state
+
+[pre2]
+Before you hit New Issue with a title that just says broke
+Scroll up a little bit, somebody already spoke
+
+[chorus2]
+It works on my machine, on my machine
+It won't run on yours, and nobody's seen
+Why it breaks on you, but your agent does
+It knows your box better than you ever was
+So point it at the issues and the PRs between
+It works on my machine
+It works on my machine
+
+[bridge1]
+Search the issues
+Read the PRs
+Point your agent at the repo
+It already knows where you are
+Same ticket, same ticket, opened up again
+Scroll up just a little, it was answered back then
+
+[final1]
+It works on my machine, on my machine
+It won't run on yours, and nobody's seen
+Why it breaks on you, but your agent does
+It knows your box better than you ever was
+So point it at the repo, the issues, the PRs
+It works on my machine
+It works on my machine
+
+[outro1]
+Search before you post
+Works on my machine

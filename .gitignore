@@ -1,0 +1,17 @@
+# audio: only the FLAC derivative + provenance are committed
+audio/capture/
+audio/*.wav
+*.log
+__pycache__/
+# kinetic build artefacts
+kinetic/app/node_modules/
+kinetic/app/dist/
+kinetic/analysis/.venv/
+kinetic/analysis/work/
+kinetic/analysis/candidates/*/*.wav
+kinetic/analysis/candidates/*/master.m4a
+kinetic/analysis/candidates/*/MASTER
+kinetic/out/
+kinetic/qa/
+kinetic/audio/
+kinetic/analysis/candidates/6a86a571ec5d-*/

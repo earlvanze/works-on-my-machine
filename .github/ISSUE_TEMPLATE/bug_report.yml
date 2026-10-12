@@ -1,0 +1,35 @@
+name: It doesn't work on my machine
+description: Only after you (or your agent) searched the issues and PRs.
+title: "[bug] "
+labels: [bug]
+body:
+  - type: checkboxes
+    id: searched
+    attributes:
+      label: Before you hit New Issue
+      options:
+        - label: I searched open AND closed issues for this error.
+          required: true
+        - label: I searched pull requests (open and merged).
+          required: true
+        - label: I pointed my agent at this repo, its issues and PRs, and it did not find an answer.
+          required: true
+  - type: textarea
+    id: agent
+    attributes:
+      label: What your agent found on your machine
+      description: OS/arch, runtime versions, PATH order, ports in use, stale caches, env vars. Paste its diagnosis, not just "broke".
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce and the exact error
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: related
+    attributes:
+      label: Closest existing issues / PRs you checked
+      description: Link them, and say why they don't cover this.

@@ -1,0 +1,317 @@
+[
+ {
+  "text": "It works on my machine",
+  "section": "intro",
+  "match": 1.0,
+  "start": 0.19,
+  "end": 2.0
+ },
+ {
+  "text": "Works on my machine",
+  "section": "intro",
+  "match": 1.0,
+  "start": 4.0,
+  "end": 6.0
+ },
+ {
+  "text": "Works on my machine",
+  "section": "intro",
+  "match": 1.0,
+  "start": 8.0,
+  "end": 10.0
+ },
+ {
+  "text": "Node twenty-two, but your PATH says eighteen",
+  "section": "verse1",
+  "match": 0.43,
+  "start": 18.07,
+  "end": 18.62
+ },
+ {
+  "text": "Three Pythons fighting in a venv you've never seen",
+  "section": "verse1",
+  "match": 0.67,
+  "start": 19.74,
+  "end": 23.0
+ },
+ {
+  "text": "A dotfile from twenty-nineteen you forgot you wrote",
+  "section": "verse1",
+  "match": 0.75,
+  "start": 23.0,
+  "end": 27.0
+ },
+ {
+  "text": "And a curl-pipe-bash you copied from a stranger's note",
+  "section": "verse1",
+  "match": 0.78,
+  "start": 27.19,
+  "end": 31.0
+ },
+ {
+  "text": "You swear you changed nothing, you swear it's the same",
+  "section": "pre1",
+  "match": 1.0,
+  "start": 31.0,
+  "end": 35.0
+ },
+ {
+  "text": "But your shell keeps a secret and it whispers your name",
+  "section": "pre1",
+  "match": 1.0,
+  "start": 35.0,
+  "end": 40.0
+ },
+ {
+  "text": "It works on my machine, on my machine",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 40.0,
+  "end": 43.0
+ },
+ {
+  "text": "It won't run on yours, and nobody's seen",
+  "section": "chorus1",
+  "match": 0.88,
+  "start": 43.0,
+  "end": 47.0
+ },
+ {
+  "text": "Why it breaks on you, but your agent does",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 47.0,
+  "end": 51.0
+ },
+ {
+  "text": "It knows your box better than you ever was",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 51.0,
+  "end": 55.0
+ },
+ {
+  "text": "So point it at the repo, let it read the scene",
+  "section": "chorus1",
+  "match": 0.73,
+  "start": 56.7,
+  "end": 61.0
+ },
+ {
+  "text": "It works on my machine",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 62.0,
+  "end": 64.0
+ },
+ {
+  "text": "Works on my machine",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 66.0,
+  "end": 68.0
+ },
+ {
+  "text": "Works on my machine",
+  "section": "chorus1",
+  "match": 1.0,
+  "start": 70.0,
+  "end": 71.0
+ },
+ {
+  "text": "A port stuck on three thousand from a zombie last week",
+  "section": "verse2",
+  "match": 0.82,
+  "start": 71.0,
+  "end": 75.0
+ },
+ {
+  "text": "A cache that never cleared and a token gone antique",
+  "section": "verse2",
+  "match": 0.9,
+  "start": 75.0,
+  "end": 78.06
+ },
+ {
+  "text": "ARM or x86, your glibc's out of date",
+  "section": "verse2",
+  "match": 0.62,
+  "start": 79.0,
+  "end": 82.0
+ },
+ {
+  "text": "Your agent read the logs, your agent knows the state",
+  "section": "verse2",
+  "match": 1.0,
+  "start": 82.19,
+  "end": 85.0
+ },
+ {
+  "text": "Before you hit New Issue with a title that just says broke",
+  "section": "pre2",
+  "match": 0.75,
+  "start": 85.0,
+  "end": 90.0
+ },
+ {
+  "text": "Scroll up a little bit, somebody already spoke",
+  "section": "pre2",
+  "match": 1.0,
+  "start": 90.0,
+  "end": 93.0
+ },
+ {
+  "text": "It works on my machine, on my machine",
+  "section": "chorus2",
+  "match": 1.0,
+  "start": 93.0,
+  "end": 96.0
+ },
+ {
+  "text": "It won't run on yours, and nobody's seen",
+  "section": "chorus2",
+  "match": 0.88,
+  "start": 96.0,
+  "end": 100.0
+ },
+ {
+  "text": "Why it breaks on you, but your agent does",
+  "section": "chorus2",
+  "match": 1.0,
+  "start": 100.0,
+  "end": 104.0
+ },
+ {
+  "text": "It knows your box better than you ever was",
+  "section": "chorus2",
+  "match": 1.0,
+  "start": 104.0,
+  "end": 108.0
+ },
+ {
+  "text": "So point it at the issues and the PRs between",
+  "section": "chorus2",
+  "match": 0.7,
+  "start": 109.37,
+  "end": 114.0
+ },
+ {
+  "text": "It works on my machine",
+  "section": "chorus2",
+  "match": 1.0,
+  "start": 114.0,
+  "end": 117.0
+ },
+ {
+  "text": "It works on my machine",
+  "section": "chorus2",
+  "match": 0.8,
+  "start": 118.0,
+  "end": 121.0
+ },
+ {
+  "text": "Search the issues",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 121.0,
+  "end": 122.0
+ },
+ {
+  "text": "Read the PRs",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 124.0,
+  "end": 125.0
+ },
+ {
+  "text": "Point your agent at the repo",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 125.0,
+  "end": 127.0
+ },
+ {
+  "text": "It already knows where you are",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 127.0,
+  "end": 128.0
+ },
+ {
+  "text": "Same ticket, same ticket, opened up again",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 128.0,
+  "end": 131.0
+ },
+ {
+  "text": "Scroll up just a little, it was answered back then",
+  "section": "bridge1",
+  "match": 1.0,
+  "start": 131.0,
+  "end": 135.18
+ },
+ {
+  "text": "It works on my machine, on my machine",
+  "section": "final1",
+  "match": 1.0,
+  "start": 138.0,
+  "end": 141.0
+ },
+ {
+  "text": "It won't run on yours, and nobody's seen",
+  "section": "final1",
+  "match": 0.88,
+  "start": 141.0,
+  "end": 144.0
+ },
+ {
+  "text": "Why it breaks on you, but your agent does",
+  "section": "final1",
+  "match": 1.0,
+  "start": 144.0,
+  "end": 148.0
+ },
+ {
+  "text": "It knows your box better than you ever was",
+  "section": "final1",
+  "match": 1.0,
+  "start": 148.0,
+  "end": 152.0
+ },
+ {
+  "text": "So point it at the repo, the issues, the PRs",
+  "section": "final1",
+  "match": 0.7,
+  "start": 153.36,
+  "end": 158.0
+ },
+ {
+  "text": "It works on my machine",
+  "section": "final1",
+  "match": 1.0,
+  "start": 158.0,
+  "end": 166.0
+ },
+ {
+  "text": "It works on my machine",
+  "section": "final1",
+  "match": 1.0,
+  "start": 166.19,
+  "end": 170.0
+ },
+ {
+  "text": "Search before you post",
+  "section": "outro1",
+  "match": 0.75,
+  "start": 171.0,
+  "end": 174.8
+ },
+ {
+  "text": "Works on my machine",
+  "section": "outro1",
+  "match": 1.0,
+  "start": 174.8,
+  "end": 178.0
+ }
+]

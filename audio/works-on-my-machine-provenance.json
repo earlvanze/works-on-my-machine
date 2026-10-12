@@ -1,0 +1,28 @@
+{
+  "title": "Works On My Machine",
+  "artist": "earlco",
+  "share_url": "https://suno.com/song/34c8a402-f553-44a6-93de-55ccc97e49c7",
+  "model": "Suno v6-mini",
+  "capture_method": "suno-analog-capture: normal Brave playback routed to isolated PipeWire null sink, 48kHz/24-bit PCM",
+  "capture_time": "2026-10-12T21:06:19+02:00",
+  "player_reported_duration_seconds": 182.76,
+  "raw_duration_seconds": 185.55,
+  "trim_start_seconds": 0.856646,
+  "trim_duration_seconds": 182.76,
+  "trim_end_seconds": 183.616646,
+  "timing_master_duration_seconds": 182.76,
+  "raw_path": "(not committed) audio/capture/take1-raw.wav",
+  "master_path": "(not committed) audio/capture/take1-master.wav",
+  "raw_sha256": "45693ec02b60a53ff7cbec9e4ef8839b05ed238a27c489b0accfd3431c675062",
+  "master_sha256": "0fbf70d2e55e3083f4d4d323b11b8d7d916eb6cf877a7e589f21cd9cfae421a0",
+  "format": "WAV pcm_s24le 48000 Hz stereo",
+  "selected": false,
+  "verification_notes": [
+    "onset from first sample above -60 dBFS",
+    "master duration equals player-reported duration",
+    "full lyric content confirmed by whisper large-v3-turbo transcript (take1-asr.txt)",
+    "0 clipped samples; peak -0.79 dBFS; unrelated next-track audio after song end excluded from master"
+  ],
+  "committed_flac": "audio/works-on-my-machine-suno-analog.flac",
+  "committed_flac_sha256": "5b75efd47cfbb9358aea5a897f7bab9085026c89943a49c5e8d5742137af2283"
+}

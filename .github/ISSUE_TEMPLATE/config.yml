@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Search existing issues first
+    url: https://github.com/earlvanze/works-on-my-machine/issues?q=is%3Aissue
+    about: Somebody already spoke. Scroll up a little bit (or point your agent at it).
+  - name: Search pull requests
+    url: https://github.com/earlvanze/works-on-my-machine/pulls?q=is%3Apr
+    about: The fix may already be merged or in review.

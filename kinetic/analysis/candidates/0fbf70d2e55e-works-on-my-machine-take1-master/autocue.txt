@@ -1,0 +1,2 @@
+autocue: 45 lines, whisper words 333, weakly matched lines (<50% words): 1
+    (3, 'Node twenty-two, but your PATH says eighteen', 0.43)
